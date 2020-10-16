@@ -429,7 +429,7 @@ font-family: 'Montserrat', sans-serif;
 
 
 
-@media(max-width: 1028px){
+@media(max-width: 720px){
   .plane-img{
   width: 18%;
   position: absolute;
